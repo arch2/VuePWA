@@ -7,7 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "@types/vue-material": "git+https://github.com/calebsander/vue-material-types.git",
+    "axios": "^0.21.1",
+    "vue": "^3.0.5",
+    "vue-axios": "^3.2.4",
+    "vue-material": "^1.0.0-beta-13",
+    "vue-router": "^3.5.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.5",
